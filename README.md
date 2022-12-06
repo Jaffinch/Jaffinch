@@ -2,7 +2,7 @@
 - 👀 I’m interested in videogames, boardgames, anime, game dev and storytelling.
 - 🌱 I’m currently learning Unity.
 - 💞️ I’m looking to collaborate on anything gamedev related. 
-- 📫 How to reach me email me or some shit.
+- 📫 How to reach me: email jackmatthewson@me.com
 
 <!---
 Jaffinch/Jaffinch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
